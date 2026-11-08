@@ -1,0 +1,1214 @@
+{
+ "source": "https://cedwyn.bucklerfamily.estate/api/catalogue",
+ "note": "The Directory webapp's own data store: for each entity in public/data/entities.json that a central-catalogue record names in its title or holder, those records. Derived and read-only; never edit by hand (tools/sync_central.py rewrites it).",
+ "fields": [
+  "id",
+  "kind",
+  "title",
+  "date_display",
+  "date_sort",
+  "status",
+  "holder",
+  "page"
+ ],
+ "match": "entity name (also the name before any bracket; names under 6 characters skipped) found in the record title or holder",
+ "synced_utc": "2026-11-08T03:06:38Z",
+ "entities_checked": 307,
+ "count": 114,
+ "entities": {
+  "llandough-primary-school": {
+   "name": "Llandough Primary School",
+   "count": 1,
+   "records": [
+    {
+     "id": "EV-0260",
+     "kind": "evidence",
+     "title": "Companies House 00648813: Lakeside and Llandough Development Co Ltd (party 1, with Western Ground Rents Ltd as party 2, to the 11 June 1965 Llandough Primary School conveyance), incorporated 5 February 1960, still active",
+     "date_display": "5 February 1960 (incorporated); 1965 conveyance",
+     "date_sort": "1960-02-05",
+     "status": "HELD (register read 17 Oct 2026)",
+     "holder": "Companies House 00648813 (overview, officers, charges: 1966 mortgage to Northampton Town & County Building Society over 42–64 (even) Pantycelyn Road, Llandough)",
+     "page": "https://research.bucklerfamily.estate/evidence/ev-0260-lakeside-and-llandough-development-co-00648813/"
+    }
+   ]
+  },
+  "st-dochdwys-church": {
+   "name": "St Dochdwy's Church",
+   "count": 5,
+   "records": [
+    {
+     "id": "EV-0858",
+     "kind": "evidence",
+     "title": "St Dochdwy's churchyard, Llandough: volunteer index of photographed headstones (RootsWeb freepages, 'not a complete listing'), including CORBETT John Stuart 1845-1921 and Blanche 1852-1939; HARRIS John Corbett 1942 'at El Alamein'; WARE William, 2nd Lieut., 1918; BLAKE William 1901 'of Cogan House'; MATTHEWS Elizabeth 1730 and JAMES Mary 1739? (oldest stones listed)",
+     "date_display": "index page c. 2012 (page metadata 7 Mar 2012); stones dated 1730 to 1993",
+     "date_sort": "2012-03-07",
+     "status": "HELD (archive capture read 7 Nov 2026; live page refuses scripts)",
+     "holder": "RootsWeb freepages, 'St Dochdwys Church, Parish of Penarth & Llandough', freepages.rootsweb.com/~deadsearch/genealogy/stdochdwys.htm; Internet Archive capture 20240910103814",
+     "page": null
+    },
+    {
+     "id": "EV-0865",
+     "kind": "evidence",
+     "title": "Ordnance Survey editions 1878-1947 (NLS), Llandough village: the 'School (Boys & Girls)' building east of the road just south of St Dochdwy's churchyard, and the former National School at the Lewis Road corner about 55 m to the south-south-west",
+     "date_display": "Surveyed 1878-79 to revised 1941/47 (sheets read 7 Nov 2026)",
+     "date_sort": "1878-01-01",
+     "status": "PUBLIC (National Library of Scotland map images)",
+     "holder": "National Library of Scotland, OS Glamorgan six-inch XLVII / XLVII.NW (NLS 102342664, 102183909, 102183906, 102183903, 102183900) and 25-inch XLVII.6 (NLS 135196558, 135196561, 135196564)",
+     "page": null
+    },
+    {
+     "id": "EV-0862",
+     "kind": "evidence",
+     "title": "Ordnance Survey six-inch map, Glamorgan sheet XLVII, 1st edition (surveyed 1878-79, published 1885): Llandough village, with 'School (Boys & Girls)' marked south of Ty-mawr and St Dochdwy's Church",
+     "date_display": "1878-79 (published 1885)",
+     "date_sort": "1878-01-01",
+     "status": "HELD (public record)",
+     "holder": "National Library of Scotland, Ordnance Survey six-inch England and Wales, Glamorgan XLVII (NLS map 102342664)",
+     "page": null
+    },
+    {
+     "id": "EV-0664",
+     "kind": "evidence",
+     "title": "St Dochdwy's Church, Llandough: ICBS file 6392 (1865-7 rebuild) and Amgueddfa Cymru drawings by T. H. Thomas (NMW A 11822) and C. L. Traherne (NMW A 1379)",
+     "date_display": "1865-1938",
+     "date_sort": "1865-01-01",
+     "status": "HELD (catalogue only)",
+     "holder": "Lambeth Palace Library, Incorporated Church Building Society file 6392; Amgueddfa Cymru – Museum Wales NMW A 11822 (bequest 21/5/1916) and NMW A 1379 (bequest 12/8/1938)",
+     "page": null
+    },
+    {
+     "id": "EV-0647",
+     "kind": "evidence",
+     "title": "St Dochdwy’s Church, Llandough: Llandough Community Council buildings note (church in use until 1820; its successor moved to Leckwith as St James’; present church consecrated July 1866)",
+     "date_display": "1820 – July 1866 (church history; note undated)",
+     "date_sort": "1820-00-00",
+     "status": "HELD-ONLINE",
+     "holder": "Llandough Community Council website, Buildings: 'St Dochdwy's Church' (PDF)",
+     "page": null
+    }
+   ]
+  },
+  "glamorgan-archives": {
+   "name": "Glamorgan Archives",
+   "count": 70,
+   "records": [
+    {
+     "id": "EV-0188",
+     "kind": "evidence",
+     "title": "Glamorgan Archives Catalogue Entry for Item Bute 10",
+     "date_display": "30 September 2026",
+     "date_sort": "2026-09-30",
+     "status": "HELD",
+     "holder": "Glamorgan Archives, catalogue item Bute 10; Wiki copy held in the Cedwyn evidence repository, reference GHF-E106-R24-A3.",
+     "page": null
+    },
+    {
+     "id": "EV-0767",
+     "kind": "evidence",
+     "title": "Glamorgan Archives zip of 41 Bute catalogue documents (Word files), attached to the reply of 7 Sep 2026",
+     "date_display": "7 Sep 2026",
+     "date_sort": "2026-09-07",
+     "status": "HELD (copy; attachment read)",
+     "holder": "Glamorgan Archives, reply attachment",
+     "page": null
+    },
+    {
+     "id": "EV-0172",
+     "kind": "evidence",
+     "title": "Glamorgan Archives digital photography order form",
+     "date_display": "7 September 2026",
+     "date_sort": "2026-09-07",
+     "status": "HELD",
+     "holder": "The Cedwyn evidence repository (uploaded attachment); Form relates to Glamorgan Archives; Wiki catalogue reference GHF-E106-R24-A1",
+     "page": null
+    },
+    {
+     "id": "EV-0155",
+     "kind": "evidence",
+     "title": "Glamorgan Archives email reporting catalogue references and a planning-record gap",
+     "date_display": "11 June 2026",
+     "date_sort": "2026-06-11",
+     "status": "HELD",
+     "holder": "Email from Glamorgan Archives, 11 June 2026. References: DXJF/64/30 (Corbett Family papers); DSA/6/1158 (Stephenson & Alexander sale particulars, 15 November 1938); D696 (Western Ground Rents Ltd, three volumes, c. 1938–1944).",
+     "page": null
+    },
+    {
+     "id": "EV-0748",
+     "kind": "evidence",
+     "title": "HM Courts and Tribunals Service internal review 260226049 outcome letter (26 Mar 2026): original decision maintained; records selected for preservation would go to Glamorgan Archives",
+     "date_display": "26 Mar 2026",
+     "date_sort": "2026-03-26",
+     "status": "HELD (copy; attachment read)",
+     "holder": "HM Courts and Tribunals Service, reply attachment (IR 260226049)",
+     "page": null
+    },
+    {
+     "id": "EV-0257",
+     "kind": "evidence",
+     "title": "Glamorgan Archives D696: Western Ground Rents Ltd records 1938–44 (a syndicate headed by Lord Kennet; Bute urban leaseholds bought from Mountjoy Ltd for £5m in 1938); records donated by Capital Law, Cardiff, April 2010 (custodial history)",
+     "date_display": "1938–1944 (records); April 2010 (deposit)",
+     "date_sort": "2010-04",
+     "status": "SOURCE PENDING (catalogue read; volumes not seen)",
+     "holder": "Archives Hub, GB 214 D696; Glamorgan Archives Canfod D696, D696/1–3",
+     "page": "https://research.bucklerfamily.estate/evidence/ev-0257-glamorgan-archives-d696-western-ground-rents-records-custodial-history/"
+    },
+    {
+     "id": "EV-0844",
+     "kind": "evidence",
+     "title": "Glamorgan Archives, Glamorgan Estate of Lord Bute collection (GB 0214 DA), fonds description (compiled by Stephen Benham for the HMC/NLW Family and Estates project, March 2001): Bute estate 22,000 acres in Glamorgan in 1900; divided between the 4th marquis and Colum, who received most of the Bute property in the Vale of Glamorgan; urban land sold 1909; farms within the coalfields sold 1923-1924; remaining property to Mountjoy Ltd 1926; leasehold interests to Western Ground Rents 1938",
+     "date_display": "March 2001 (describes 1900-1947)",
+     "date_sort": "2001-03",
+     "status": "HELD (archive description read online)",
+     "holder": "Glamorgan Archives, GB 0214 DA (PDF on The National Archives Discovery) https://discovery.nationalarchives.gov.uk/download/GB%200214%20DA_cld",
+     "page": null
+    },
+    {
+     "id": "EV-0091",
+     "kind": "evidence",
+     "title": "Glamorgan Archives DCVG: Vale planning committee minutes and reports 1988–89",
+     "date_display": "May 1988 – April 1989",
+     "date_sort": "1988-05-00",
+     "status": "PENDING",
+     "holder": "Glamorgan Archives DCVG/C/4/36/3 (minutes May 1988–Apr 1989), DCVG/C/4/36/65–69 (reports/agendas), DCVG/C/1/32–33 (Chief Executive committee, Jun 1988–Feb 1989)",
+     "page": null
+    },
+    {
+     "id": "MR-0066",
+     "kind": "missing_record",
+     "title": "Building preservation notice for the farmhouse in 1988, or the council's record of deciding not to serve one",
+     "date_display": "29 Jul - 6 Dec 1988",
+     "date_sort": "1988",
+     "status": "NOT YET SEARCHED",
+     "holder": "Vale of Glamorgan Council (planning records of the former borough council, 1988), and South Glamorgan County Council papers at Glamorgan Archives; the occupier's own papers if a notice was served. Not yet searched.",
+     "page": "/research/missing-records/#mr-0066"
+    },
+    {
+     "id": "MR-0027",
+     "kind": "missing_record",
+     "title": "Notice of intended demolition of the farmhouse given to the council (December 1988), and any counter-notice",
+     "date_display": "1988-12",
+     "date_sort": "1988",
+     "status": "REQUESTED, NOT ADDRESSED",
+     "holder": "Vale of Glamorgan Council (building control); Glamorgan Archives",
+     "page": "/research/missing-records/#mr-0027"
+    },
+    {
+     "id": "EV-0649",
+     "kind": "evidence",
+     "title": "Llandough Women's Institute scrapbook 'Fifty Years of Farming or Land Use in your Locality, 1937-1987' (Glamorgan Archives DXNO16/2)",
+     "date_display": "1987 (project for European Year of the Environment; covers 1937-1987)",
+     "date_sort": "1987-01-01",
+     "status": "HELD (catalogue only; cover and one page online)",
+     "holder": "Glamorgan Archives, DXNO16/2; cover and one page at People's Collection Wales 723486 and 723501",
+     "page": null
+    },
+    {
+     "id": "EV-0214",
+     "kind": "evidence",
+     "title": "Llandough Community Council minutes, 1987: Great House Farm right of way, VG41, BP’s agents",
+     "date_display": "1987",
+     "date_sort": "1987-00-00",
+     "status": "HELD",
+     "holder": "Glamorgan Archives (Leckwith photos 2026); reference pending",
+     "page": null
+    },
+    {
+     "id": "MR-0084",
+     "kind": "missing_record",
+     "title": "Inspector's report and objection papers of the East Vale Local Plan inquiry, January-February 1986 (housing policy H2, site H2.1)",
+     "date_display": "1986-01/1986-02 (inquiry); 1987-02-09 (adoption)",
+     "date_sort": "1986",
+     "status": "NOT YET ASKED",
+     "holder": "Vale of Glamorgan Council (planning policy, successor to the borough council); possibly Glamorgan Archives (borough council deposits) or the Welsh Office planning inspectorate papers at The National Archives (Discovery search 'East Vale Local Plan': 0 records). Not yet asked.",
+     "page": "/research/missing-records/#mr-0084"
+    },
+    {
+     "id": "EV-0712",
+     "kind": "evidence",
+     "title": "Glamorgan Archives P35/11-29: Llandough-juxta-Penarth Community Council minutes, 1982-2000",
+     "date_display": "1982-2000",
+     "date_sort": "1982-01-01",
+     "status": "HELD (catalogue only)",
+     "holder": "Glamorgan Archives, P35/11-29 (TNA Discovery N13886486)",
+     "page": null
+    },
+    {
+     "id": "EV-0266",
+     "kind": "evidence",
+     "title": "Glamorgan Archives P35/11–29: Llandough-juxta-Penarth Community Council minutes 1982–2000; with Penarth UDC (UDPE, 1898–1974), Cardiff RDC (RDC, 1862–1974) and Glamorgan County Council (GCC, 1907–1984) series (catalogue entries)",
+     "date_display": "1982–2000 (P35); 1862–1984 (other series)",
+     "date_sort": "1982",
+     "status": "SOURCE PENDING (not seen; free to inspect)",
+     "holder": "TNA Discovery N13886486 (held by Glamorgan Archives, P35/11–29); Glamorgan Archives UDPE, RDC, GCC (collection level); TNA HLG 119/3141",
+     "page": "https://research.bucklerfamily.estate/evidence/ev-0266-glamorgan-archives-p35-llandough-community-council-minutes-1982-2000/"
+    },
+    {
+     "id": "EV-0682",
+     "kind": "evidence",
+     "title": "Glamorgan Archives CVG/EC/3/1/3/13: photographs of sites in sector 7 of the Penarth survey (c.1975), including 'Tymawr Farm, Llandough'",
+     "date_display": "c.1975",
+     "date_sort": "1975-01-01",
+     "status": "HELD (catalogue only)",
+     "holder": "Glamorgan Archives, CVG/EC/3/1/3/13 (1 bundle)",
+     "page": null
+    },
+    {
+     "id": "MR-0060",
+     "kind": "missing_record",
+     "title": "Measured drawings of Great House Farm beyond the 1974 ground plan: first floor, roof, heights, the farm ranges and the yard (open question)",
+     "date_display": "1974-1988",
+     "date_sort": "1974",
+     "status": "OPEN QUESTION",
+     "holder": "Not known. Possible holders: RCAHMW (National Monuments Record), Glamorgan Archives (1975 survey photographs, 1971 aerial photographs), Welsh Government (aerial photography), the press photograph collections",
+     "page": "/research/missing-records/#mr-0060"
+    },
+    {
+     "id": "EV-0869",
+     "kind": "evidence",
+     "title": "Glamorgan Archives UDPE/C/1/87/2: Penarth Urban District Council minutes, January-July 1972 (the half-year of the 25 July 1972 outline planning permission 3/8996/3337)",
+     "date_display": "Jan-Jul 1972",
+     "date_sort": "1972-01",
+     "status": "LOCATED, NOT YET OBTAINED (catalogue read)",
+     "holder": "Glamorgan Archives, Penarth Urban District Council records, Clerk's department, UDPE/C/1/87/2 (Canfod catalogue)",
+     "page": null
+    },
+    {
+     "id": "MR-0030",
+     "kind": "missing_record",
+     "title": "Planning file for outline permission 3/8996/3337 (about 13 houses, 1972)",
+     "date_display": "1972",
+     "date_sort": "1972",
+     "status": "NOT FOUND",
+     "holder": "Vale of Glamorgan Council (successor planning authority); Glamorgan Archives",
+     "page": "/research/missing-records/#mr-0030"
+    },
+    {
+     "id": "MR-0058",
+     "kind": "missing_record",
+     "title": "Glamorgan Archives items catalogued but not yet viewed: 1975 County Treasures survey, East Vale Local Plan, civic society files and 1971 aerial photographs",
+     "date_display": "1971-1992",
+     "date_sort": "1971",
+     "status": "CATALOGUED, NOT YET VIEWED",
+     "holder": "Glamorgan Archives (open to view in the search room; catalogue entries read, items not yet seen)",
+     "page": "/research/missing-records/#mr-0058"
+    },
+    {
+     "id": "EV-0264",
+     "kind": "evidence",
+     "title": "Town and Country Planning Act 1971 s.54(3)–(8): consultees, a certified copy of each list deposited with the district council, and registration as a local land charge (the statutory paper trail for the 1989 Llandough list)",
+     "date_display": "1971 (Act as enacted); applies to the 1989 Llandough list",
+     "date_sort": "1971",
+     "status": "HELD (legislation text); amendments up to 1988–89 not checked (UNCONFIRMED)",
+     "holder": "Town and Country Planning Act 1971, s.54 (as enacted); Glamorgan Archives DCVG/C/7/10 (Vale land charges / listing index, see EV-0029)",
+     "page": "https://research.bucklerfamily.estate/evidence/ev-0264-tcpa-1971-s54-listing-deposit-local-land-charge/"
+    },
+    {
+     "id": "MR-0017",
+     "kind": "missing_record",
+     "title": "VG41 village-green registration file (16 June 1970): application, statutory declaration, map, objections and provisional/final registration notices",
+     "date_display": "1970-06-16",
+     "date_sort": "1970",
+     "status": "REQUESTED, NOT ADDRESSED",
+     "holder": "Vale of Glamorgan Council (registration authority, successor to Glamorgan County Council); Glamorgan Archives",
+     "page": "/research/missing-records/#mr-0017"
+    },
+    {
+     "id": "MR-0011",
+     "kind": "missing_record",
+     "title": "Cardiff County Court possession order of 11 December 1962 (farmhouse and garden), plaint and plan",
+     "date_display": "1962-12-11",
+     "date_sort": "1962",
+     "status": "NOT FOUND",
+     "holder": "Ministry of Justice / HMCTS (Cardiff County Court); Glamorgan Archives if transferred",
+     "page": "/research/missing-records/#mr-0011"
+    },
+    {
+     "id": "EV-0831",
+     "kind": "evidence",
+     "title": "Glamorgan County Council Planning Committee minutes, meeting of 19 November 1958 (not yet obtained)",
+     "date_display": "19 November 1958",
+     "date_sort": "1958-11-19",
+     "status": "NOT YET HELD (minutes not obtained or read; not yet asked for)",
+     "holder": "Possible holders: West Glamorgan Archive Service, Glamorgan County Council records GCC (1907–1984, includes minutes; TNA Discovery N14546564); Glamorgan Archives (county council series, not checked here)",
+     "page": null
+    },
+    {
+     "id": "EV-0030",
+     "kind": "evidence",
+     "title": "Glamorgan Archives ACA: Cardiff County Court registers (1953 arrears, 1962 possession, 1963 committal)",
+     "date_display": "1953–1975",
+     "date_sort": "1953-00-00",
+     "status": "PENDING",
+     "holder": "Glamorgan Archives ACA/1/1, /25, /26 (1953), ACA/1/31–33 (1962; Book 6 missing), ACA/1/11 (June 1963), ACA/1/17, /18, /41 (1975), ACA/8/2.",
+     "page": "/research/evidence/ev-0030-cardiff-county-court-registers-aca/"
+    },
+    {
+     "id": "EV-0029",
+     "kind": "evidence",
+     "title": "Glamorgan Archives DCVG/C/7/9–10: local land charges registers (Llandough)",
+     "date_display": "1952–1990s",
+     "date_sort": "1952-00-00",
+     "status": "PENDING",
+     "holder": "Glamorgan Archives DCVG/C/7/9 (1952–65, Part IV, Llandough) and DCVG/C/7/10 (index by property, 1960s–1990s).",
+     "page": null
+    },
+    {
+     "id": "EV-0028",
+     "kind": "evidence",
+     "title": "Penarth petty sessions record of lodger Bruce Sutherland (lead, not yet searched)",
+     "date_display": "c. 1951–52",
+     "date_sort": "1951-00-00",
+     "status": "PENDING",
+     "holder": "Glamorgan Archives (Penarth petty sessions registers); British Newspaper Archive. No document reference numbers given.",
+     "page": null
+    },
+    {
+     "id": "EV-0027",
+     "kind": "evidence",
+     "title": "Glamorgan Archives DB/M/22: Bute manor disposals 1950–57",
+     "date_display": "1950–1957",
+     "date_sort": "1950-00-00",
+     "status": "PENDING",
+     "holder": "Glamorgan Archives DB/M/22.",
+     "page": null
+    },
+    {
+     "id": "EV-0025",
+     "kind": "evidence",
+     "title": "Surrender and re-grant of Frederick Buckler's yearly tenancy (unwritten; no written record)",
+     "date_display": "2 February 1949",
+     "date_sort": "1949-02-02",
+     "status": "PENDING",
+     "holder": "Holder: none known. WGR rental books and plan book at Glamorgan Archives (D696, c.1938–44) are background only. Source copy: the Cedwyn evidence repository (bucklerfamily.estate).",
+     "page": "/research/evidence/ev-0025-frederick-buckler-unwritten-tenancy-1949/"
+    },
+    {
+     "id": "MR-0009",
+     "kind": "missing_record",
+     "title": "Water undertaker records of the supply to the farmhouse being cut off (c.1949–1958)",
+     "date_display": "c.1949–1958",
+     "date_sort": "1949",
+     "status": "NOT FOUND",
+     "holder": "Dŵr Cymru Welsh Water (successor to the Cardiff water undertaking); Glamorgan Archives (council water committee minutes)",
+     "page": "/research/missing-records/#mr-0009"
+    },
+    {
+     "id": "EV-0258",
+     "kind": "evidence",
+     "title": "Glamorgan Archives ACA/2, ACA/3 and ACA/6: Cardiff County Court ordinary actions, plaint and minute books and default actions: no volume covers 1952–53 (survival map for the Frederick Buckler arrears judgment)",
+     "date_display": "1947–1951 (surviving volumes)",
+     "date_sort": "1947",
+     "status": "SOURCE PENDING (not seen)",
+     "holder": "Glamorgan Archives Canfod ACA/6; ACA/2/1–7; ACA/3/1–9; ACA/6/1–4",
+     "page": "https://research.bucklerfamily.estate/evidence/ev-0258-glamorgan-archives-aca-2-3-6-cardiff-county-court-survival-map/"
+    },
+    {
+     "id": "EV-0222",
+     "kind": "evidence",
+     "title": "DBDT121/3: agreement (counterpart) for tenancy of farm land in the parish of Leckwith, Western Ground Rents Limited and William Samuel Coles, with plan",
+     "date_display": "Oct 1944 (catalogue date; day not given)",
+     "date_sort": "1944-10",
+     "status": "PENDING",
+     "holder": "Glamorgan Archives, DBDT121/3 (Debenham Tewson Bute collection, GB 0214 DBDT). Catalogue: Canfod record; full catalogue PDF via The National Archives Discovery (section “Leckwith”).",
+     "page": "https://research.bucklerfamily.estate/evidence/ev-0222-dbdt121-3-wgr-coles-leckwith-tenancy-1944/"
+    },
+    {
+     "id": "EV-0024",
+     "kind": "evidence",
+     "title": "Glamorgan Archives D1777/1: post-1938 Bute/Mountjoy estate-office maps",
+     "date_display": "c. 1938–1950s",
+     "date_sort": "1942-00-00",
+     "status": "PENDING",
+     "holder": "Glamorgan Archives D1777/1/1–34.",
+     "page": null
+    },
+    {
+     "id": "EV-0233",
+     "kind": "evidence",
+     "title": "DBDT129/3: Agreement (counterpart) for tenancy of Llandough Farm, parish of Penarth, Western Ground Rents Limited to Messrs David and Thomas Thomas",
+     "date_display": "August 1940",
+     "date_sort": "1940-08",
+     "status": "PENDING — catalogue verified, document not seen.",
+     "holder": "Glamorgan Archives DBDT129/3. Catalogue: DBDT catalogue (The National Archives Discovery).",
+     "page": "https://research.bucklerfamily.estate/evidence/ev-0233-dbdt129-3-wgr-thomas-llandough-farm-tenancy-1940/"
+    },
+    {
+     "id": "EV-0023",
+     "kind": "evidence",
+     "title": "DBDT123/7 — 1939 agreement, Western Ground Rents to John Williams, with plan",
+     "date_display": "May 1939",
+     "date_sort": "1939-05-00",
+     "status": "PARTLY HELD",
+     "holder": "Glamorgan Archives DBDT123/7 (May 1939).",
+     "page": "/research/evidence/ev-0023-1939-wgr-john-williams-tenancy-plan/"
+    },
+    {
+     "id": "EV-0625",
+     "kind": "evidence",
+     "title": "The 1938 sale as one transaction: contracts 17 May 1938, Western Ground Rents registered 4–5 July 1938, manors kept back, Mountjoy as mortgagee to 1944",
+     "date_display": "17 May – 23/25 Dec 1938; 14 Jun 1939",
+     "date_sort": "1938-12-25",
+     "status": "READ (search-result text and catalogue entries).",
+     "holder": "BNA: Leeds Mercury 18 May 1938 p1; Western Daily Press 19 May 1938 p7; Western Mail 18 May 1938 p9, 19 May 1938 p9, 5 Jul 1938 p7, 14 Jun 1939 p10; Yorkshire Post, Daily Herald, Scotsman 5 Jul 1938. Glamorgan Archives D696/2 (mortgage to Mountjoy, surrendered 1944); DBDT11/1 (Dec 1938 lease of the Castle Street estate office, WGR → Mountjoy); DBDT121/1–3 (Leckwith: Bute 1925 → Mountjoy 1934 → WGR 1944).",
+     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0625-bute-mountjoy-sale-to-wgr-1938-one-transaction/"
+    },
+    {
+     "id": "EV-0021",
+     "kind": "evidence",
+     "title": "Western Mail: sale of a different “Great House Farm” at Llandough near Cowbridge (name trap)",
+     "date_display": "12 and 16 November 1938",
+     "date_sort": "1938-11-12",
+     "status": "PENDING",
+     "holder": "Western Mail 12 Nov 1938 p.1 and 16 Nov 1938 p.12 (British Newspaper Archive); Related Glamorgan Archives DSA/6/1158.",
+     "page": null
+    },
+    {
+     "id": "EV-0019",
+     "kind": "evidence",
+     "title": "Bute Estate to Western Ground Rents Ltd conveyance of reversion, with plan",
+     "date_display": "1938",
+     "date_sort": "1938-00-00",
+     "status": "PENDING",
+     "holder": "Not yet disclosed by the bodies that should hold it: Vale of Glamorgan Council deed wallet 1756 (2 of at least 10 documents disclosed, FOI 00211027); no copy found in the catalogued Bute papers at Glamorgan Archives; HM Land Registry titles WA3996 and WA7355 not yet copied",
+     "page": "/research/evidence/ev-0019-bute-wgr-conveyance-plan-1938/"
+    },
+    {
+     "id": "EV-0017",
+     "kind": "evidence",
+     "title": "Glamorgan Archives DSA/12/5400: Llandough Farm (Ely Tidal Harbour), J. M. Williams — a different farm",
+     "date_display": "1931–1938",
+     "date_sort": "1931-00-00",
+     "status": "PENDING",
+     "holder": "Glamorgan Archives DSA/12/5400.",
+     "page": null
+    },
+    {
+     "id": "EV-0612",
+     "kind": "evidence",
+     "title": "Bute lets land near Lewis Road, Llandough, to Penarth Urban District Council, December 1926 (Glamorgan Archives DBDT123/6)",
+     "date_display": "December 1926",
+     "date_sort": "1926-12",
+     "status": "PENDING — view free at Glamorgan Archives.",
+     "holder": "Glamorgan Archives, DBDT123/6 (catalogue only).",
+     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0612-bute-letting-lewis-road-penarth-udc-1926/"
+    },
+    {
+     "id": "EV-0611",
+     "kind": "evidence",
+     "title": "Llandough Rectory sold at auction, 7 October 1926; plan marks adjoining land \"part of the Bute Estate\" (Glamorgan Archives DSA/12/5085)",
+     "date_display": "7 October 1926 (boundary letter 26 July 1926)",
+     "date_sort": "1926-10-07",
+     "status": "PENDING — view free at Glamorgan Archives.",
+     "holder": "Glamorgan Archives, DSA/12/5085 (catalogue only).",
+     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0611-llandough-rectory-sale-1926/"
+    },
+    {
+     "id": "EV-0613",
+     "kind": "evidence",
+     "title": "Bute Glamorgan manorial records: court books to 1937, extinguishment of manorial incidents 1929–40, Ministry of Agriculture correspondence 1938, steward for the \"Glamorgan manors of Mountjoy Ltd\" 1937 (Glamorgan Archives DB/M/1–21)",
+     "date_display": "1926–1940",
+     "date_sort": "1926",
+     "status": "PENDING — view free at Glamorgan Archives.",
+     "holder": "Glamorgan Archives, DB/M/1–9 (court books to 1937), DB/M/10–13 (extinguishment agreements 1929–36), DB/M/14–19 (manorial rents 1935–40), DB/M/20 (Ministry correspondence 1938), DB/M/21 (steward appointed 27 May 1937).",
+     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0613-bute-glamorgan-manorial-records-1926-1940/"
+    },
+    {
+     "id": "EV-0610",
+     "kind": "evidence",
+     "title": "Llandough quarry and lime works plant catalogued for sale, 10 November 1925 (Glamorgan Archives DSA/12/4888)",
+     "date_display": "10 November 1925",
+     "date_sort": "1925-11-10",
+     "status": "PENDING — view free at Glamorgan Archives.",
+     "holder": "Glamorgan Archives, DSA/12/4888 (catalogue description read; document unread).",
+     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0610-llandough-quarry-plant-sale-1925/"
+    },
+    {
+     "id": "EV-0728",
+     "kind": "evidence",
+     "title": "Glamorgan Archives DSA/12/4232 (Stephenson & Alexander clients' files): 'Piece of land at Llandough opposite O.S. 60', sale, Lord Bute to Miss O.S. Corbett, correspondence 6–22 March 1924",
+     "date_display": "6–22 March 1924",
+     "date_sort": "1924-03-06",
+     "status": "PENDING (file not seen)",
+     "holder": "Glamorgan Archives, DSA/12/4232 (Stephenson & Alexander, Auctioneers and Chartered Surveyors, records: clients' files)",
+     "page": null
+    },
+    {
+     "id": "EV-0614",
+     "kind": "evidence",
+     "title": "Mountjoy Ltd in the Bute estate catalogue: \"In 1926, the remaining Bute property was incorporated under a private family company called Mountjoy Ltd\" (TNA Discovery, GB 0214 DB administrative history)",
+     "date_display": "1926 per the catalogue (company formed May 1922, EV-0624); 1938 sale",
+     "date_sort": "1922-05",
+     "status": "READ (catalogue text); company records not yet seen.",
+     "holder": "The National Archives Discovery, catalogue GB 0214 DB and DA (administrative history of the Bute estate records at Glamorgan Archives).",
+     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0614-mountjoy-ltd-1926-tna-catalogue/"
+    },
+    {
+     "id": "MR-0086",
+     "kind": "missing_record",
+     "title": "1910 Finance Act valuation record sheet plans for Llandough, the maps that pair with the Glamorgan Archives valuation book DVAL/1/33",
+     "date_display": "c.1910",
+     "date_sort": "1910",
+     "status": "LOCATED, NOT YET OBTAINED",
+     "holder": "The National Archives, Kew: IR 131/4 (Cardiff District record sheet plans). The valuation book DVAL/1/33 is at Glamorgan Archives.",
+     "page": "/research/missing-records/#mr-0086"
+    },
+    {
+     "id": "EV-0219",
+     "kind": "evidence",
+     "title": "Bute coppice woods incl. Cwm Cydfin Wood (Leckwith and Llandough), auction 29 Nov 1902",
+     "date_display": "29 Nov 1902",
+     "date_sort": "1902-11-29",
+     "status": "HELD (catalogue only)",
+     "holder": "Glamorgan Archives DSA/3/192; DSA/12/1003",
+     "page": null
+    },
+    {
+     "id": "EV-0683",
+     "kind": "evidence",
+     "title": "Glamorgan Archives DBDT/123 'Llandough' (Debenham Tewson, Bute Estate collection): 13 item titles, 1901-1963, none naming Great House Farm or Tŷ Mawr",
+     "date_display": "1901-1963",
+     "date_sort": "1901-04-01",
+     "status": "HELD (catalogue only)",
+     "holder": "Glamorgan Archives, fonds DBDT (Debenham Tewson, solicitors, Cardiff, Bute Estate collection), series DBDT/123",
+     "page": null
+    },
+    {
+     "id": "EV-0850",
+     "kind": "evidence",
+     "title": "Glamorgan Archives, Penarth Urban District Council records (UDPE), fonds description: the council (1894-31 Mar 1974) covered the parishes of Penarth, Cogan and Llandough juxta Penarth; holds council and committee minutes 1898-1974, deed registers 1876-1974, building regulation plans 1877-c1973 (incomplete series, UDPE/S/1, sampled) and rating and valuation books",
+     "date_display": "1877-c2000s (catalogue read 2026)",
+     "date_sort": "1894",
+     "status": "LISTED (catalogue read; plans and minutes not seen)",
+     "holder": "Glamorgan Archives, Canfod catalogue, UDPE https://canfod.glamarchives.gov.uk/records/UDPE",
+     "page": null
+    },
+    {
+     "id": "EV-0843",
+     "kind": "evidence",
+     "title": "Glamorgan Archives, Bute Glamorgan Estates (GB 0214 DB), Exchange of Land, DB/33/1-2: deed of exchange, 27 Sept 1893, between the Trustees of the Will of the late marquess of Bute and the marquess of Bute, lands in Leckwith, Llandough-juxta-Barry, Cogan, St Andrew's Major, Lavernock, Whitchurch, Eglwysilan, Llanfabon and Llantwit Fardre [detailed schedule and plans included]",
+     "date_display": "27 Sep 1893 (catalogue entry read 2026)",
+     "date_sort": "1893-09-27",
+     "status": "LISTED (catalogue entry read; deed, schedule and plans not seen)",
+     "holder": "Glamorgan Archives, catalogue GB 0214 DB (PDF on The National Archives Discovery) https://discovery.nationalarchives.gov.uk/download/GB%200214%20DB",
+     "page": null
+    },
+    {
+     "id": "MR-0067",
+     "kind": "missing_record",
+     "title": "Schedule and plans to the Bute deed of exchange of 27 September 1893 (Glamorgan Archives DB/33/1-2)",
+     "date_display": "1893-09-27",
+     "date_sort": "1893",
+     "status": "CATALOGUED, NOT YET VIEWED",
+     "holder": "Glamorgan Archives (Bute Glamorgan Estates collection, DB/33/1-2). Reading-room item; not yet viewed.",
+     "page": "/research/missing-records/#mr-0067"
+    },
+    {
+     "id": "MR-0065",
+     "kind": "missing_record",
+     "title": "Superfluous-land records for land taken in Llandough under the Lands Clauses Acts: to whom any surplus was offered back, and when",
+     "date_display": "1885-1960s",
+     "date_sort": "1885",
+     "status": "NOT YET SEARCHED",
+     "holder": "The railway companies' land and estate papers: Barry Railway Company (The National Archives RAIL 23) and Taff Vale Railway Company (RAIL 684), with any later successor estate files; Cardiff Corporation waterworks land papers (Cardiff Council / Glamorgan Archives, not checked). Not yet searched item by item.",
+     "page": "/research/missing-records/#mr-0065"
+    },
+    {
+     "id": "EV-0848",
+     "kind": "evidence",
+     "title": "Glamorgan Archives, Cardiff Poor Law Union records (UC): UC/73 Llandough parish rates books, 1882-1902, 5 volumes (UC/73/1 Oct 1882-Nov 1884; UC/73/2 May-Nov 1896; UC/73/3 May 1897-Nov 1898; UC/73/4 May 1899-May 1900; UC/73/5 May 1901-May 1902); companion UC/69 Rating Assessment Committee minutes 1862-1927",
+     "date_display": "1882-1902 (catalogue read 2026)",
+     "date_sort": "1882-10",
+     "status": "LISTED (catalogue entry read; rate books not seen)",
+     "holder": "Glamorgan Archives, Canfod catalogue, UC/73 https://canfod.glamarchives.gov.uk/records/UC/73 ; UC/69 https://canfod.glamarchives.gov.uk/records/UC/69",
+     "page": null
+    },
+    {
+     "id": "EV-0213",
+     "kind": "evidence",
+     "title": "Counterpart building lease, Clyde Street, Roath, 6 November 1877 — NOT the farm lease",
+     "date_display": "6 November 1877",
+     "date_sort": "1877-11-06",
+     "status": "HELD",
+     "holder": "Glamorgan Archives (Leckwith photos 2026); reference pending",
+     "page": null
+    },
+    {
+     "id": "EV-0007",
+     "kind": "evidence",
+     "title": "Bute trustees' abstract of receipts and payments, 1877 (Bute X.6(12))",
+     "date_display": "1877",
+     "date_sort": "1877-00-00",
+     "status": "PENDING",
+     "holder": "Bute estate records, reference Bute X.6(12); Repository to be confirmed: Glamorgan Archives, Cardiff Library or National Library of Wales.",
+     "page": null
+    },
+    {
+     "id": "EV-0006",
+     "kind": "evidence",
+     "title": "1877 Bute–Daniel Thomas & Son agreement (sale or quarry lease of house parcel)",
+     "date_display": "1877",
+     "date_sort": "1877-00-00",
+     "status": "PENDING",
+     "holder": "Not located. Candidates: Bute estate papers (National Library of Wales), Glamorgan Archives, Cardiff Library. Custodian/source copy: bucklerfamily.estate. Related plan image: WordPress Media Library item 89 (date and origin unknown; from a family heirloom collection, disclosed 2026; not shown to come from this agreement).",
+     "page": "/research/evidence/ev-0006-bute-thomas-agreement-1877/"
+    },
+    {
+     "id": "MR-0002",
+     "kind": "missing_record",
+     "title": "1877 agreement between the Bute trustees and Daniel Thomas & Son (sale or quarry lease), with plan",
+     "date_display": "1877",
+     "date_sort": "1877",
+     "status": "NOT FOUND",
+     "holder": "Bute estate collections (Glamorgan Archives; National Library of Wales; Cardiff Central Library Bute papers); Mount Stuart",
+     "page": "/research/missing-records/#mr-0002"
+    },
+    {
+     "id": "MR-0064",
+     "kind": "missing_record",
+     "title": "Deposited plans and books of reference for the railway and waterworks schemes over Llandough, 1876-1901: owner, lessee and occupier of each plot",
+     "date_display": "1876-1901",
+     "date_sort": "1876",
+     "status": "CATALOGUED, NOT YET VIEWED",
+     "holder": "Parliamentary Archives deposited plans, catalogued in The National Archives' Discovery: YHL/PO/PB/3/plan1876/P4 (Penarth Extension Railway), YHL/PO/PB/3/plan1885/B4 and plan1884/B5 (Barry Dock and Railways; which file carries Railway No.1 not checked), YHL/PO/PB/3/plan1897/T1, plan1900/T5 and plan1901/T2 (Taff Vale Railway); House of Commons copies under YHC/CL/PB/6. No catalogue entry located for the 1893 Cardiff Corporation waterworks deposit. The county deposits with the clerk of the peace (Glamorgan Quarter Sessions): whether held at Glamorgan Archives not checked.",
+     "page": "/research/missing-records/#mr-0064"
+    },
+    {
+     "id": "EV-0212",
+     "kind": "evidence",
+     "title": "Llandough poor-rate books, 1872–1876: John Williams, farm under Lord Bute (PROVISIONAL)",
+     "date_display": "1872–1876",
+     "date_sort": "1872-04-09",
+     "status": "HELD",
+     "holder": "Glamorgan Archives (Leckwith photos 2026); reference pending",
+     "page": null
+    },
+    {
+     "id": "EV-0674",
+     "kind": "evidence",
+     "title": "Llandough school paper trail 1864-1956: enrolled trust deed C 54/16303/3 (1864), Board of Education files ED 21/22464 and later, and the Llandough-juxta-Penarth and Cogan School Board minutes (Glamorgan Archives ESB23, 1882-1901)",
+     "date_display": "1864-1956",
+     "date_sort": "1864-01-01",
+     "status": "HELD (catalogue only)",
+     "holder": "The National Archives, Kew: C 54/16303/3, ED 21/22464, ED 49/10033, ED 21/66704, ED 216/265, ED 103/125/13; Glamorgan Archives ESB23",
+     "page": null
+    },
+    {
+     "id": "EV-0211",
+     "kind": "evidence",
+     "title": "DB/E/1 plan 19 — Cedfin or Ty Mawr Farm, Stewart survey and reference table (1824)",
+     "date_display": "1824",
+     "date_sort": "1824-00-00",
+     "status": "PARTLY HELD",
+     "holder": "Glamorgan Archives DB/E/1",
+     "page": null
+    },
+    {
+     "id": "EV-0861",
+     "kind": "evidence",
+     "title": "Glamorgan Archives DART/W/91 (Arthurs solicitors, Hurst family estate): draft assignment for sale of annuity, 22 Feb 1817, Herbert Hurst of Dinas Powis to Rob Wrixon of Cardiff, £50 a year 'charged on lands in St Andrews, Cadoxton-justa Barry, Llandough, Merthyr Dyfan, Wenvoe, Cardiff (St John) and Roath'",
+     "date_display": "22 Feb 1817 (draft)",
+     "date_sort": "1817-02-22",
+     "status": "CATALOGUE READ 7 Nov 2026 (draft not seen; execution not shown)",
+     "holder": "Glamorgan Archives, Arthurs Solicitors collection, Wood family papers, Estate of Hurst Family of Gabalfa and Dinas Powys (Estate of Robert Wrixon), DART/W/91",
+     "page": null
+    },
+    {
+     "id": "EV-0866",
+     "kind": "evidence",
+     "title": "Glamorgan Archives DART/W/82 (Arthurs solicitors, Hurst family estate): In Chancery, certified copy report of sale of land, 15 Nov 1813, of the freehold estates of William Hurst deceased in Cadoxton-juxta-Barry, Llandough-juxta-Penarth, Merthyr Dyfan, Roath and St Andrews Major",
+     "date_display": "15 Nov 1813 (auction 29 Sep 1813)",
+     "date_sort": "1813-11-15",
+     "status": "CATALOGUE READ 8 Nov 2026 (document not seen)",
+     "holder": "Glamorgan Archives, Arthurs Solicitors collection, Wood family papers, Estate of Hurst Family of Gabalfa and Dinas Powys, Settlement of Estate of William Hurst deceased, DART/W/82",
+     "page": null
+    },
+    {
+     "id": "EV-0663",
+     "kind": "evidence",
+     "title": "Llandough parish registers at Glamorgan Archives: P46CW Penarth and Llandough (1813-2016) and P35CW St Dochdwy Llandough with Leckwith (1928-2010)",
+     "date_display": "1813-2016",
+     "date_sort": "1813-01-01",
+     "status": "HELD (catalogue only)",
+     "holder": "Glamorgan Archives, P46CW and P35CW (catalogue rows on TNA Discovery)",
+     "page": null
+    },
+    {
+     "id": "MR-0061",
+     "kind": "missing_record",
+     "title": "Thomas v Hurst (1812-1813): the Chancery decree, the Master's report naming the buyers, and the sale particulars with their lot plan for the Llandough-juxta-Penarth freeholds",
+     "date_display": "1812-1813",
+     "date_sort": "1812",
+     "status": "CATALOGUED, NOT YET VIEWED",
+     "holder": "Glamorgan Archives (the certified report: catalogue entry read, item not yet seen); The National Archives (the Court of Chancery's decree and order books for 1812-1814; not checked); the particulars and the estate map (whereabouts not known)",
+     "page": "/research/missing-records/#mr-0061"
+    },
+    {
+     "id": "EV-0860",
+     "kind": "evidence",
+     "title": "Glamorgan Archives DART/W/81 (Arthurs solicitors, Hurst family estate): draft mortgage 15 Oct 1800, Herbert Hurst of Gabalva to William Vaughan of Cardiff, with the consent of Calvert Richard Jones, of moieties including 'messuages and lands in ... Llandough-juxta-Penarth' and the 'Moiety of Manors of Dinas Powys, Llandough, Cogan, HIghlight and Kibbor and advowson of Leckwith church'",
+     "date_display": "15 Oct 1800 (draft)",
+     "date_sort": "1800-10-15",
+     "status": "CATALOGUE READ 7 Nov 2026 (draft not seen; execution not shown)",
+     "holder": "Glamorgan Archives, Arthurs Solicitors collection, Wood family papers, Estate of Hurst Family of Gabalfa and Dinas Powys, DART/W/81",
+     "page": null
+    },
+    {
+     "id": "EV-0859",
+     "kind": "evidence",
+     "title": "Glamorgan Archives DSA/107/34/11, item 82 (Bute Estate maps and papers in the Stephenson & Alexander records): 'Copy Release of 11 Jan 1793 by Calvert Richard Jones to the Earl of Bute of manors of Llandough, Cogan, Kibbor and Cardiff (otherwise Whitefriars) and also land in ps. of Llandough Juxta Penarth' and other parishes 'as in schedule'",
+     "date_display": "11 Jan 1793 (release; the item is a later copy in a c.1890s bundle)",
+     "date_sort": "1793-01-11",
+     "status": "CATALOGUE READ 7 Nov 2026 (copy release not seen)",
+     "holder": "Glamorgan Archives, Stephenson & Alexander records, Crawshay Bailey Estate and Maindy Estates Ltd papers, DSA/107/34/11 (bundle 'Tynybedw Mountain boundary dispute and claim for compensation', c.1890s), item 82",
+     "page": null
+    },
+    {
+     "id": "MR-0062",
+     "kind": "missing_record",
+     "title": "Richards estate survey, 1777-1785: the Llandough page missing from the bound volume",
+     "date_display": "1777-1785",
+     "date_sort": "1777",
+     "status": "NOT HELD: PAGES MISSING FROM THE VOLUME",
+     "holder": "Glamorgan Archives (the volume, with pages 47-50 missing; date and cause of loss not known); any separated page or copy: not known",
+     "page": "/research/missing-records/#mr-0062"
+    },
+    {
+     "id": "MR-0001",
+     "kind": "missing_record",
+     "title": "Instrument recording the 1667 acquisition of Tŷ Mawr by the Williams family",
+     "date_display": "1667",
+     "date_sort": "1667",
+     "status": "NOT YET FOUND",
+     "holder": "Not identified. Family title papers were removed from the farmhouse c.1950–52 (EV-0026); estate collections at the National Library of Wales and Glamorgan Archives are the first places to search.",
+     "page": "/research/missing-records/#mr-0001"
+    },
+    {
+     "id": "EV-0669",
+     "kind": "evidence",
+     "title": "National Library of Wales, Bute estate records: manorial rentals and court papers for the manor of Leckwith, 1590-1816 (M 17/36, M 1/164-165, S 11-13, S 20, M 17/41-54, R 6/27)",
+     "date_display": "1590-1816",
+     "date_sort": "1590-01-01",
+     "status": "HELD (catalogue only)",
+     "holder": "National Library of Wales, Bute estate records (NRA 581 Stuart), Manorial Documents Register entries via TNA Discovery; also Glamorgan Archives D/D B M/3 court book (1884-1937)",
+     "page": null
+    }
+   ]
+  },
+  "llandough-community-council": {
+   "name": "Llandough Community Council",
+   "count": 15,
+   "records": [
+    {
+     "id": "EV-0788",
+     "kind": "evidence",
+     "title": "Llandough Community Council agenda for the meeting of 22 October 2026, attached to the replies of 13 and 14 Oct 2026",
+     "date_display": "13 Oct 2026 to 14 Oct 2026 (2 copies)",
+     "date_sort": "2026-10-13",
+     "status": "HELD (copy; attachment read)",
+     "holder": "Llandough Community Council, reply attachment",
+     "page": null
+    },
+    {
+     "id": "EV-0513",
+     "kind": "evidence",
+     "title": "Llandough Community Council, agenda for the Council meeting of Thursday 22 October 2026 at 7.00pm (held remotely only), issued 13 October 2026. Item 10: a request about recollections of the village from the 1950s to the 1990s and about the 1,026 burials beneath Church View Close, the former site of Great House Farm (Tŷ Mawr)",
+     "date_display": "13 October 2026 (agenda issued); 22 October 2026 (meeting)",
+     "date_sort": "2026-10-13",
+     "status": "HELD (agenda read in full, 23 Oct 2026). Minutes of the 22 October 2026 meeting: not yet published at 09:45 BST on 23 October 2026.",
+     "holder": "Council agenda, 22 October 2026 (PDF) · listed on the Council’s Full Council meetings page (2026, “22 Oct 26 19:00”)",
+     "page": "https://research.bucklerfamily.estate/evidence/ev-0513-llandough-community-council-agenda-22-october-2026-item-10/"
+    },
+    {
+     "id": "EV-0193",
+     "kind": "evidence",
+     "title": "Llandough Community Council FOI section 12 cost-limit refusal of 21 September 2026 request",
+     "date_display": "11 October 2026",
+     "date_sort": "2026-10-11",
+     "status": "PENDING",
+     "holder": "Llandough Community Council (sender: Paul R. Egan, Clerk). No reference numbers given.",
+     "page": null
+    },
+    {
+     "id": "EV-0181",
+     "kind": "evidence",
+     "title": "Llandough Community Council reply passing Mr Buckler's 21 September email to the clerk",
+     "date_display": "28 September 2026",
+     "date_sort": "2026-09-28",
+     "status": "PENDING",
+     "holder": "Llandough Community Council (sender: Dr Mo Misra, Chair); Recipient Mr Buckler. No reference numbers given.",
+     "page": null
+    },
+    {
+     "id": "EV-0177",
+     "kind": "evidence",
+     "title": "Llandough Community Council FOI/EIR Request and Section 12 Refusal",
+     "date_display": "21 September–11 October 2026",
+     "date_sort": "2026-09-21",
+     "status": "PENDING",
+     "holder": "Llandough Community Council (correspondence); Sources R53, R54, R55 and Reply register",
+     "page": null
+    },
+    {
+     "id": "EV-0176",
+     "kind": "evidence",
+     "title": "Llandough Community Council reply of 20 September 2026 (quoted in 28 September email)",
+     "date_display": "20 September 2026",
+     "date_sort": "2026-09-20",
+     "status": "PENDING",
+     "holder": "Llandough Community Council (originator); Wording survives only as quoted in the Council's 28 September email (GHF-E106-R54).",
+     "page": null
+    },
+    {
+     "id": "EV-0157",
+     "kind": "evidence",
+     "title": "Llandough Community Council (Clerk Paul Egan) correspondence thread, June–October 2026",
+     "date_display": "14 June – 14 October 2026",
+     "date_sort": "2026-06-14",
+     "status": "HELD",
+     "holder": "Email; Scrollable thread published on family Wayback site (GHF-E106-R54, R55); Some entries transcriptions, not original .eml files.",
+     "page": null
+    },
+    {
+     "id": "MR-0073",
+     "kind": "missing_record",
+     "title": "Llandough Community Council: record of the decision to hold the 22 October 2026 meeting remotely",
+     "date_display": "October 2026",
+     "date_sort": "2026",
+     "status": "SOUGHT",
+     "holder": "Llandough Community Council (clerk)",
+     "page": "/catalogue/?id=MR-0073"
+    },
+    {
+     "id": "MR-0072",
+     "kind": "missing_record",
+     "title": "Llandough Community Council: original and revised agendas for the meeting of 22 October 2026, with publication dates",
+     "date_display": "October 2026",
+     "date_sort": "2026",
+     "status": "SOUGHT",
+     "holder": "Llandough Community Council (clerk; council website)",
+     "page": "/catalogue/?id=MR-0072"
+    },
+    {
+     "id": "EV-0711",
+     "kind": "evidence",
+     "title": "Llandough Community Council, Annual Meeting 8 May 2024, item 8 (deeds and trust instruments / fixed asset register): Village Green No. 41 documented by a “Common Commissioners Letter in Clerk’s File”; the extended village-green parcel by title deeds",
+     "date_display": "8 May 2024",
+     "date_sort": "2024-05-08",
+     "status": "HELD (public online copy)",
+     "holder": "Llandough Community Council, minutes of the Annual Meeting held 8 May 2024 (182482-AnnMin2024.pdf), item 8",
+     "page": null
+    },
+    {
+     "id": "EV-0847",
+     "kind": "evidence",
+     "title": "Planning application 2020/01590/HYB, Land south of Llandough Hill and Penarth Road (LDP site 21): Llandough Community Council extraordinary meeting minutes, 10 February 2021 (comments on transport, character, green space, springs and flood risk, soil quality) and Vale of Glamorgan Planning Committee 'Matters Arising', 29 March 2023 (revised viability information; drainage comments and officer response; amended plan conditions)",
+     "date_display": "10 Feb 2021; 29 Mar 2023",
+     "date_sort": "2021-02-10",
+     "status": "HELD (public PDFs read online)",
+     "holder": "Llandough Community Council minutes https://www.llandough-cc.co.uk/_UserFiles/Files/_Minutes/117238-Extraordinary_Council_Minutes_February_2021.pdf ; Vale of Glamorgan Council Planning Committee papers https://www.valeofglamorgan.gov.uk/Documents/_Committee%20Reports/Planning/2023/23-03-29/Matters-Arising.pdf",
+     "page": null
+    },
+    {
+     "id": "EV-0273",
+     "kind": "evidence",
+     "title": "South Wales Echo, 23 February 1990, p.1: “company chiefs are bidding [to] build homes” on the Great House Farm land; Llandough Community Council made no objection but wanted the land registered as village green (snippet)",
+     "date_display": "23 February 1990",
+     "date_sort": "1990-02-23",
+     "status": "SOURCE PENDING (snippet only)",
+     "holder": "South Wales Echo, 23 Feb 1990, p.1 (British Newspaper Archive search)",
+     "page": "https://research.bucklerfamily.estate/evidence/ev-0273-south-wales-echo-23-feb-1990-great-house-farm-homes-bid-village-green/"
+    },
+    {
+     "id": "EV-0214",
+     "kind": "evidence",
+     "title": "Llandough Community Council minutes, 1987: Great House Farm right of way, VG41, BP’s agents",
+     "date_display": "1987",
+     "date_sort": "1987-00-00",
+     "status": "HELD",
+     "holder": "Glamorgan Archives (Leckwith photos 2026); reference pending",
+     "page": null
+    },
+    {
+     "id": "MR-0074",
+     "kind": "missing_record",
+     "title": "Llandough Community Council records about Tŷ Mawr / Great House Farm beyond the minute books deposited in 2002",
+     "date_display": "1974–2026",
+     "date_sort": "1974",
+     "status": "SOUGHT",
+     "holder": "Llandough Community Council",
+     "page": "/catalogue/?id=MR-0074"
+    },
+    {
+     "id": "EV-0647",
+     "kind": "evidence",
+     "title": "St Dochdwy’s Church, Llandough: Llandough Community Council buildings note (church in use until 1820; its successor moved to Leckwith as St James’; present church consecrated July 1866)",
+     "date_display": "1820 – July 1866 (church history; note undated)",
+     "date_sort": "1820-00-00",
+     "status": "HELD-ONLINE",
+     "holder": "Llandough Community Council website, Buildings: 'St Dochdwy's Church' (PDF)",
+     "page": null
+    }
+   ]
+  },
+  "michaelston-le-pit-and-leckwith-community-council": {
+   "name": "Michaelston-le-Pit and Leckwith Community Council",
+   "count": 1,
+   "records": [
+    {
+     "id": "EV-0826",
+     "kind": "evidence",
+     "title": "Michaelston-le-Pit and Leckwith Community Council, \"Leckwith Village History\" (web page): Leckwith manor supplied Cardiff Castle \"from the mid 1400s to 1926 when the farms were sold off\"; 1928 Bronze Age hoard near the bridge; the 1935 concrete bridge",
+     "date_display": "web page, captured 17 Sep 2025 (events 1400s-1935)",
+     "date_sort": "1926",
+     "status": "HELD (public web page, read online)",
+     "holder": "http://www.michaelstonandleckwithcouncil.co.uk/Leckwith_Village_History_30026.aspx (capture http://web.archive.org/web/20250917045505/http://www.michaelstonandleckwithcouncil.co.uk/Leckwith_Village_History_30026.aspx)",
+     "page": null
+    }
+   ]
+  },
+  "llandough-and-leckwith-war-memorial-institute": {
+   "name": "Llandough and Leckwith War Memorial Institute",
+   "count": 2,
+   "records": [
+    {
+     "id": "EV-0841",
+     "kind": "evidence",
+     "title": "Charity Commission register, charity 213965, Llandough and Leckwith War Memorial Institute: governed by a Scheme of the Commissioners dated 6 February 2001; objects, a village hall for the inhabitants of the area of benefit, the hall being a memorial to those inhabitants who died in 1914-1918",
+     "date_display": "6 Feb 2001",
+     "date_sort": "2001-02-06",
+     "status": "HELD (online register record read)",
+     "holder": "Charity Commission for England and Wales https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/213965/governing-document",
+     "page": null
+    },
+    {
+     "id": "EV-0840",
+     "kind": "evidence",
+     "title": "IWM War Memorials Register 6685: Llandough and Leckwith War Memorial Institute (memorial hall, ST 16787 73119), entrance inscription 'LLANDOUGH AND LECKWITH WAR MEMORIAL INSTITUTE 1914 - 1918', brass WW1 plaque (8 names) and WW2 plaque (4 names) inside; plaques by Messrs J H Williams, letter cutter",
+     "date_display": "after 1918 (record read 2026)",
+     "date_sort": "1919",
+     "status": "HELD (online register record read)",
+     "holder": "Imperial War Museums, War Memorials Register https://memorials.iwm.org.uk/memorial/6685",
+     "page": null
+    }
+   ]
+  },
+  "former-national-school-and-school-house": {
+   "name": "Former National School and School-house",
+   "count": 2,
+   "records": [
+    {
+     "id": "EV-0731",
+     "kind": "evidence",
+     "title": "Cadw listed building 13431: Former National School and School-house, 2 Lewis Road, Llandough, Grade II, designated 6 April 1989",
+     "date_display": "6 April 1989",
+     "date_sort": "1989-04-06",
+     "status": "HELD (public record)",
+     "holder": "Cadw, Full Report for Listed Buildings, record 13431",
+     "page": null
+    },
+    {
+     "id": "EV-0272",
+     "kind": "evidence",
+     "title": "Cadw listed-building records 13430, 13431, 13432: the Llandough community resurvey list was issued on 6 April 1989 (church 4 June 1989), after the December 1988 demolition",
+     "date_display": "6 April 1989 (designation dates); survey 1988",
+     "date_sort": "1989-04-06",
+     "status": "HELD (public record, read 20 Oct 2026)",
+     "holder": "Cadw / Cof Cymru full reports: 13430 Pound Cottage (designated 06/04/1989); 13431 Former National School and School-house (06/04/1989; “Original list description of 1989”); 13432 Church of St Dochdwy (04/06/1989)",
+     "page": "https://research.bucklerfamily.estate/evidence/ev-0272-cadw-1989-llandough-resurvey-list-13430-13431-13432/"
+    }
+   ]
+  },
+  "pound-cottage": {
+   "name": "Pound Cottage",
+   "count": 1,
+   "records": [
+    {
+     "id": "EV-0272",
+     "kind": "evidence",
+     "title": "Cadw listed-building records 13430, 13431, 13432: the Llandough community resurvey list was issued on 6 April 1989 (church 4 June 1989), after the December 1988 demolition",
+     "date_display": "6 April 1989 (designation dates); survey 1988",
+     "date_sort": "1989-04-06",
+     "status": "HELD (public record, read 20 Oct 2026)",
+     "holder": "Cadw / Cof Cymru full reports: 13430 Pound Cottage (designated 06/04/1989); 13431 Former National School and School-house (06/04/1989; “Original list description of 1989”); 13432 Church of St Dochdwy (04/06/1989)",
+     "page": "https://research.bucklerfamily.estate/evidence/ev-0272-cadw-1989-llandough-resurvey-list-13430-13431-13432/"
+    }
+   ]
+  },
+  "ty-mawr-great-house-farm": {
+   "name": "Tŷ Mawr (Great House Farm)",
+   "count": 17,
+   "records": [
+    {
+     "id": "EV-0723",
+     "kind": "evidence",
+     "title": "Amgueddfa Cymru – Museum Wales, further reply on FOI 2026-020 (furniture and moveable property from Great House Farm / Tŷ Mawr, Llandough), 4 November 2026: added name variants checked, no further records",
+     "date_display": "4 November 2026 (request 2 July 2026; internal review 8 September 2026)",
+     "date_sort": "2026-11-04",
+     "status": "HELD (correspondence)",
+     "holder": "Amgueddfa Cymru – Museum Wales, FOI Team, email of 4 November 2026 15:16 UTC, FOI 2026-020 (reply to an email of 29 October 2026 supplying further names), project mailbox",
+     "page": null
+    },
+    {
+     "id": "EV-0721",
+     "kind": "evidence",
+     "title": "Complaint under section 50 FOIA to the Information Commissioner’s Office, 3 November 2026, about Amgueddfa Cymru – Museum Wales’s handling of FOI 2026-024 (Tŷ Mawr (Great House), Llandough)",
+     "date_display": "3 November 2026",
+     "date_sort": "2026-11-03",
+     "status": "HELD (correspondence)",
+     "holder": "Project mailbox: email to the Information Commissioner’s Office, 3 November 2026 14:12 UTC (same thread as an earlier email that day, acknowledged at 13:51 UTC under case reference IC-591931-B6H0)",
+     "page": null
+    },
+    {
+     "id": "EV-0718",
+     "kind": "evidence",
+     "title": "Society for the Protection of Ancient Buildings (SPAB) Archive reply, 2 November 2026: no file and no photographs held on Great House Farm (Tŷ Mawr), Llandough",
+     "date_display": "2 November 2026",
+     "date_sort": "2026-11-02",
+     "status": "HELD (correspondence)",
+     "holder": "SPAB, Archive Officer, email of 2 November 2026 16:19 UTC (reply to an enquiry sent 07:59 UTC the same day), project mailbox",
+     "page": null
+    },
+    {
+     "id": "EV-0609",
+     "kind": "evidence",
+     "title": "Parcel-by-parcel table: 21 takings of Cedwyn / Tŷ Mawr land, with the event before each and its gap (analysis, 25 Oct 2026)",
+     "date_display": "25 October 2026",
+     "date_sort": "2026-10-25",
+     "status": "PUBLISHED — ingredients only.",
+     "holder": "Cedwyn research library (this page); PDF below.",
+     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0609-parcel-by-parcel-pattern-table-2026/"
+    },
+    {
+     "id": "EV-0720",
+     "kind": "evidence",
+     "title": "BP reply, 23 October 2026, to the 16 October 2026 document preservation request on Great House Farm / Tŷ Mawr, Llandough: “not able to confirm” a preservation hold",
+     "date_display": "23 October 2026 (further request 24 October 2026)",
+     "date_sort": "2026-10-23",
+     "status": "HELD (correspondence)",
+     "holder": "bp, email of 23 October 2026 09:26 UTC replying to the preservation request of 16 October 2026; further request sent 24 October 2026 22:56 UTC; project mailbox",
+     "page": null
+    },
+    {
+     "id": "EV-0513",
+     "kind": "evidence",
+     "title": "Llandough Community Council, agenda for the Council meeting of Thursday 22 October 2026 at 7.00pm (held remotely only), issued 13 October 2026. Item 10: a request about recollections of the village from the 1950s to the 1990s and about the 1,026 burials beneath Church View Close, the former site of Great House Farm (Tŷ Mawr)",
+     "date_display": "13 October 2026 (agenda issued); 22 October 2026 (meeting)",
+     "date_sort": "2026-10-13",
+     "status": "HELD (agenda read in full, 23 Oct 2026). Minutes of the 22 October 2026 meeting: not yet published at 09:45 BST on 23 October 2026.",
+     "holder": "Council agenda, 22 October 2026 (PDF) · listed on the Council’s Full Council meetings page (2026, “22 Oct 26 19:00”)",
+     "page": "https://research.bucklerfamily.estate/evidence/ev-0513-llandough-community-council-agenda-22-october-2026-item-10/"
+    },
+    {
+     "id": "EV-0680",
+     "kind": "evidence",
+     "title": "Ministry of Defence, Defence Business Services: response to Subject Access Request DPR2026/46503 on any Armed Forces involvement in the 1988 eviction at Tŷ Mawr (Great House Farm), Llandough (no information in scope located)",
+     "date_display": "9 October 2026",
+     "date_sort": "2026-10-09",
+     "status": "HELD (copy held privately; not published)",
+     "holder": "Ministry of Defence, Defence Business Services (DBS), Disclosure Team (Civilian), Tomlinson House, Norcross; reference DPR2026/46503. Source copy: the Cedwyn evidence repository, held privately as subject-access material (artifact GHF-E106-R118-A1).",
+     "page": null
+    },
+    {
+     "id": "EV-0147",
+     "kind": "evidence",
+     "title": "HM Land Registry letter on registration history of Tŷ Mawr Farm",
+     "date_display": "23 March 2026",
+     "date_sort": "2026-03-23",
+     "status": "HELD",
+     "holder": "Copy held in the Cedwyn evidence repository (PDF in wiki media library). Original sent by HM Land Registry. No caseworker, office, title number or reference given.",
+     "page": null
+    },
+    {
+     "id": "EV-0629",
+     "kind": "evidence",
+     "title": "RCAHMW record NA/GL/88/49: typed description of Tŷ Mawr / Great House Farm (December 1988)",
+     "date_display": "December 1988 (the text records the demolition of 6 December 1988)",
+     "date_sort": "1988-12-06",
+     "status": "HELD (copy)",
+     "holder": "Royal Commission on the Ancient and Historical Monuments of Wales (RCAHMW), National Monuments Record for Wales",
+     "page": "/research/evidence/ev-0629-rcahmw-na-gl-88-49-description-1988/"
+    },
+    {
+     "id": "EV-0623",
+     "kind": "evidence",
+     "title": "Financial Times full text, June 1983 – September 1986 (885 issues): no item on Llandough, Great House Farm, Tŷ Mawr, BP Properties / BP Pension Trust, Western Ground Rents or the case",
+     "date_display": "June 1983 – September 1986",
+     "date_sort": "1983-06",
+     "status": "DONE — negative.",
+     "holder": "archive.org Financial Times scans (full text), searched 25 Oct 2026.",
+     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0623-financial-times-1983-1986-negative-sweep/"
+    },
+    {
+     "id": "MR-0074",
+     "kind": "missing_record",
+     "title": "Llandough Community Council records about Tŷ Mawr / Great House Farm beyond the minute books deposited in 2002",
+     "date_display": "1974–2026",
+     "date_sort": "1974",
+     "status": "SOUGHT",
+     "holder": "Llandough Community Council",
+     "page": "/catalogue/?id=MR-0074"
+    },
+    {
+     "id": "MR-0019",
+     "kind": "missing_record",
+     "title": "Ordnance Survey revision record for the 1971 change to sheet XLVII.6 at Tŷ Mawr",
+     "date_display": "1971",
+     "date_sort": "1971",
+     "status": "REQUESTED, NO SUBSTANTIVE REPLY",
+     "holder": "Ordnance Survey; The National Archives (OS series)",
+     "page": "/research/missing-records/#mr-0019"
+    },
+    {
+     "id": "MR-0047",
+     "kind": "missing_record",
+     "title": "National Farm Survey farm record and map for Tŷ Mawr / Great House Farm, Llandough (1941–43)",
+     "date_display": "1941–1943",
+     "date_sort": "1941",
+     "status": "REQUESTED, NOT ADDRESSED",
+     "holder": "The National Archives (MAF 32 farm records by parish; MAF 73 field maps); Welsh Government named by Defra",
+     "page": "/research/missing-records/#mr-0047"
+    },
+    {
+     "id": "EV-0683",
+     "kind": "evidence",
+     "title": "Glamorgan Archives DBDT/123 'Llandough' (Debenham Tewson, Bute Estate collection): 13 item titles, 1901-1963, none naming Great House Farm or Tŷ Mawr",
+     "date_display": "1901-1963",
+     "date_sort": "1901-04-01",
+     "status": "HELD (catalogue only)",
+     "holder": "Glamorgan Archives, fonds DBDT (Debenham Tewson, solicitors, Cardiff, Bute Estate collection), series DBDT/123",
+     "page": null
+    },
+    {
+     "id": "MR-0001",
+     "kind": "missing_record",
+     "title": "Instrument recording the 1667 acquisition of Tŷ Mawr by the Williams family",
+     "date_display": "1667",
+     "date_sort": "1667",
+     "status": "NOT YET FOUND",
+     "holder": "Not identified. Family title papers were removed from the farmhouse c.1950–52 (EV-0026); estate collections at the National Library of Wales and Glamorgan Archives are the first places to search.",
+     "page": "/research/missing-records/#mr-0001"
+    },
+    {
+     "id": "AR-0025",
+     "kind": "artifact",
+     "title": "Colour photograph: Tŷ Mawr (Great House) from the lane to the south",
+     "date_display": "date not recorded; received 5 Nov 2026",
+     "date_sort": null,
+     "status": "catalogued",
+     "holder": "reference image set received 5 Nov 2026 (revival AR)",
+     "page": null
+    },
+    {
+     "id": "AR-0002",
+     "kind": "artifact",
+     "title": "Colourised aerial photograph: Tŷ Mawr (Great House) from the south-west",
+     "date_display": "date not recorded; received 5 Nov 2026",
+     "date_sort": null,
+     "status": "catalogued",
+     "holder": "reference image set received 5 Nov 2026 (revival AR)",
+     "page": null
+    }
+   ]
+  }
+ }
+}
