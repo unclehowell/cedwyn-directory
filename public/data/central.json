@@ -12,14 +12,24 @@
   "page"
  ],
  "match": "entity name (also the name before any bracket; names under 6 characters skipped) found in the record title or holder",
- "synced_utc": "2026-11-08T03:06:38Z",
+ "synced_utc": "2026-11-09T01:11:12Z",
  "entities_checked": 307,
- "count": 114,
+ "count": 150,
  "entities": {
   "llandough-primary-school": {
    "name": "Llandough Primary School",
-   "count": 1,
+   "count": 2,
    "records": [
+    {
+     "id": "EV-0461",
+     "kind": "evidence",
+     "title": "Vale of Glamorgan Council: Request for information regarding acquisition of land for Llandough Primary School (13 Jul 2026)",
+     "date_display": "2026-07-13",
+     "date_sort": "2026-07-13",
+     "status": "no reply",
+     "holder": "Vale of Glamorgan Council",
+     "page": null
+    },
     {
      "id": "EV-0260",
      "kind": "evidence",
@@ -90,8 +100,68 @@
   },
   "glamorgan-archives": {
    "name": "Glamorgan Archives",
-   "count": 70,
+   "count": 92,
    "records": [
+    {
+     "id": "EV-0345",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Enquiry – original South Glamorgan “County Treasures” inventory: entry for Great House Farm / Tŷ Mawr, Llandough (19 Oct 2026)",
+     "date_display": "2026-10-19",
+     "date_sort": "2026-10-19",
+     "status": "no reply",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0344",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Location and content request — Glamorgan land tax assessments DBJ/O/90-94 (1691–1707) — Llandough-juxta-Penarth — not a (15 Oct 2026)",
+     "date_display": "2026-10-15",
+     "date_sort": "2026-10-15",
+     "status": "no reply",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0343",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Location request — Llandough-juxta-Penarth parish, vestry and tithe records — Great House / Ty Mawr — not a viewing requ (10 Oct 2026)",
+     "date_display": "2026-10-10 to 2026-11-06",
+     "date_sort": "2026-10-10",
+     "status": "partial",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0342",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Mary Doreen Williams — death registration — request passed from Vale of Glamorgan Registration Service on 30 September 2 (10 Oct 2026–13 Oct 2026)",
+     "date_display": "2026-10-10 to 2026-10-13",
+     "date_sort": "2026-10-10",
+     "status": "not held",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0341",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Bute X.6(12) — 1877 Bute trustee accounts/receipts and possible Great House Farm / Llandough transaction (10 Oct 2026)",
+     "date_display": "2026-10-10 to 2026-10-23",
+     "date_sort": "2026-10-10",
+     "status": "not held",
+     "holder": "Cardiff Central Library",
+     "page": null
+    },
+    {
+     "id": "EV-0340",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: 2026/4274 — thank you; D153 at NLW; source of DRA/11/120 note (10 Oct 2026)",
+     "date_display": "2026-10-10",
+     "date_sort": "2026-10-10",
+     "status": "no reply",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
     {
      "id": "EV-0188",
      "kind": "evidence",
@@ -100,6 +170,26 @@
      "date_sort": "2026-09-30",
      "status": "HELD",
      "holder": "Glamorgan Archives, catalogue item Bute 10; Wiki copy held in the Cedwyn evidence repository, reference GHF-E106-R24-A3.",
+     "page": null
+    },
+    {
+     "id": "EV-0339",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: South Wales Constabulary records, November–December 1988 — Great House Farm, Llandough (27 Sep 2026)",
+     "date_display": "2026-09-27 to 2026-10-22",
+     "date_sort": "2026-09-27",
+     "status": "partial",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0338",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Enquiry — does D153/1–8 contain a c.1875–1880 Llandough-juxta-Penarth instrument? (16 Sep 2026–10 Oct 2026)",
+     "date_display": "2026-09-16 to 2026-10-10",
+     "date_sort": "2026-09-16",
+     "status": "redirected elsewhere",
+     "holder": "Glamorgan Archives",
      "page": null
     },
     {
@@ -113,6 +203,16 @@
      "page": null
     },
     {
+     "id": "EV-0337",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Epexio contact us form submission (7 Sep 2026–27 Sep 2026)",
+     "date_display": "2026-09-07 to 2026-10-21",
+     "date_sort": "2026-09-07",
+     "status": "correspondence (no disclosure)",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
      "id": "EV-0172",
      "kind": "evidence",
      "title": "Glamorgan Archives digital photography order form",
@@ -120,6 +220,86 @@
      "date_sort": "2026-09-07",
      "status": "HELD",
      "holder": "The Cedwyn evidence repository (uploaded attachment); Form relates to Glamorgan Archives; Wiki catalogue reference GHF-E106-R24-A1",
+     "page": null
+    },
+    {
+     "id": "EV-0336",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: DBDT79/1 – physical examination of the original (26 Aug 2026–14 Sep 2026)",
+     "date_display": "2026-08-26 to 2026-09-14",
+     "date_sort": "2026-08-26",
+     "status": "substantive disclosure",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0335",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Ty Mawr, Llandough, Cardiff (22 Aug 2026–30 Sep 2026)",
+     "date_display": "2026-08-22 to 2026-11-06",
+     "date_sort": "2026-08-22",
+     "status": "partial",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0334",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Application for copy death certificates – William (1990) and Mary Doreen Williams (1983) (21 Aug 2026–10 Sep 2026)",
+     "date_display": "2026-08-21 to 2026-09-10",
+     "date_sort": "2026-08-21",
+     "status": "partial",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0333",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Request for burial / parish register entries – William (1990) and related records (Mary Doreen Williams) (20 Aug 2026–24 Aug 2026)",
+     "date_display": "2026-08-20 to 2026-10-21",
+     "date_sort": "2026-08-20",
+     "status": "partial",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0332",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Great House Farm, Llandough, Cardiff (27 Jul 2026–5 Aug 2026)",
+     "date_display": "2026-07-27 to 2026-08-05",
+     "date_sort": "2026-07-27",
+     "status": "redirected elsewhere",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0331",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Freedom of Information / Historical Records Request – Mr. Williams, Cardiff Post Office Engineering Department, 1897 Mar (16 Jul 2026–24 Jul 2026)",
+     "date_display": "2026-07-16 to 2026-07-24",
+     "date_sort": "2026-07-16",
+     "status": "not held",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0330",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Great House Farm, Llandough | Cardiff Castle Furniture (2 Jul 2026)",
+     "date_display": "2026-07-02",
+     "date_sort": "2026-07-02",
+     "status": "no reply",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0329",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Enquiry re: Great House Farm / Ty Mawr, Llandough – Plot references 36.792 & 70/1.334 (Williams / family, 1876 a (27 Jun 2026)",
+     "date_display": "2026-06-27",
+     "date_sort": "2026-06-27",
+     "status": "no reply",
+     "holder": "Glamorgan Archives",
      "page": null
     },
     {
@@ -133,6 +313,46 @@
      "page": null
     },
     {
+     "id": "EV-0328",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Great House Farm, Llandough (7 Jun 2026–15 Jun 2026)",
+     "date_display": "2026-06-07 to 2026-06-15",
+     "date_sort": "2026-06-07",
+     "status": "not held",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0327",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Great House Farm – Williams/ (5 Jun 2026)",
+     "date_display": "2026-06-05",
+     "date_sort": "2026-06-05",
+     "status": "no reply",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0326",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: FORMAL DISCLOSURE NOTICE & LITIGATION HOLD: Historic Significance, Planning Approvals, and Displaced Family Tenancy Reco (29 May 2026–11 Jun 2026)",
+     "date_display": "2026-05-29 to 2026-06-11",
+     "date_sort": "2026-05-29",
+     "status": "partial",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
+     "id": "EV-0325",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Great House Farm, Llandough, Nr Penarth, Vale of Glamorgan (26 May 2026–29 May 2026)",
+     "date_display": "2026-05-26 to 2026-05-29",
+     "date_sort": "2026-05-26",
+     "status": "not held",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
      "id": "EV-0748",
      "kind": "evidence",
      "title": "HM Courts and Tribunals Service internal review 260226049 outcome letter (26 Mar 2026): original decision maintained; records selected for preservation would go to Glamorgan Archives",
@@ -140,6 +360,16 @@
      "date_sort": "2026-03-26",
      "status": "HELD (copy; attachment read)",
      "holder": "HM Courts and Tribunals Service, reply attachment (IR 260226049)",
+     "page": null
+    },
+    {
+     "id": "EV-0324",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Epexio contact us form submission (6 Feb 2026–23 Feb 2026)",
+     "date_display": "2026-02-06 to 2026-02-23",
+     "date_sort": "2026-02-06",
+     "status": "substantive disclosure",
+     "holder": "Glamorgan Archives",
      "page": null
     },
     {
@@ -796,8 +1026,28 @@
   },
   "llandough-community-council": {
    "name": "Llandough Community Council",
-   "count": 15,
+   "count": 23,
    "records": [
+    {
+     "id": "EV-0393",
+     "kind": "evidence",
+     "title": "Llandough Community Council: New narrower request after cost limit refusal (20 Oct 2026)",
+     "date_display": "2026-10-20",
+     "date_sort": "2026-10-20",
+     "status": "no reply",
+     "holder": "Llandough Community Council",
+     "page": null
+    },
+    {
+     "id": "EV-0392",
+     "kind": "evidence",
+     "title": "Llandough Community Council: Correspondence on 22 October council meeting access (13 Oct 2026–20 Oct 2026)",
+     "date_display": "2026-10-16 to 2026-10-29",
+     "date_sort": "2026-10-16",
+     "status": "correspondence (no disclosure)",
+     "holder": "Llandough Community Council",
+     "page": null
+    },
     {
      "id": "EV-0788",
      "kind": "evidence",
@@ -817,6 +1067,16 @@
      "status": "HELD (agenda read in full, 23 Oct 2026). Minutes of the 22 October 2026 meeting: not yet published at 09:45 BST on 23 October 2026.",
      "holder": "Council agenda, 22 October 2026 (PDF) · listed on the Council’s Full Council meetings page (2026, “22 Oct 26 19:00”)",
      "page": "https://research.bucklerfamily.estate/evidence/ev-0513-llandough-community-council-agenda-22-october-2026-item-10/"
+    },
+    {
+     "id": "EV-0391",
+     "kind": "evidence",
+     "title": "Llandough Community Council: Internal review of section 12 refusal and SAR (13 Oct 2026–16 Oct 2026)",
+     "date_display": "2026-10-13 to 2026-10-16",
+     "date_sort": "2026-10-13",
+     "status": "no reply",
+     "holder": "Llandough Community Council",
+     "page": null
     },
     {
      "id": "EV-0193",
@@ -839,6 +1099,16 @@
      "page": null
     },
     {
+     "id": "EV-0390",
+     "kind": "evidence",
+     "title": "Llandough Community Council: Narrower request for post-2002 property records (21 Sep 2026–11 Oct 2026)",
+     "date_display": "2026-09-21 to 2026-10-11",
+     "date_sort": "2026-09-21",
+     "status": "refusal",
+     "holder": "Llandough Community Council",
+     "page": null
+    },
+    {
      "id": "EV-0177",
      "kind": "evidence",
      "title": "Llandough Community Council FOI/EIR Request and Section 12 Refusal",
@@ -846,6 +1116,16 @@
      "date_sort": "2026-09-21",
      "status": "PENDING",
      "holder": "Llandough Community Council (correspondence); Sources R53, R54, R55 and Reply register",
+     "page": null
+    },
+    {
+     "id": "EV-0389",
+     "kind": "evidence",
+     "title": "Llandough Community Council: Heritage research email to the council chair (20 Sep 2026)",
+     "date_display": "2026-09-20",
+     "date_sort": "2026-09-20",
+     "status": "not held",
+     "holder": "Llandough Community Council",
      "page": null
     },
     {
@@ -869,6 +1149,16 @@
      "page": null
     },
     {
+     "id": "EV-0388",
+     "kind": "evidence",
+     "title": "Llandough Community Council: Initial request for all Great House Farm records (18 May 2026–14 Jun 2026)",
+     "date_display": "2026-05-18 to 2026-06-14",
+     "date_sort": "2026-05-18",
+     "status": "redirected elsewhere",
+     "holder": "Llandough Community Council",
+     "page": null
+    },
+    {
      "id": "MR-0073",
      "kind": "missing_record",
      "title": "Llandough Community Council: record of the decision to hold the 22 October 2026 meeting remotely",
@@ -887,6 +1177,26 @@
      "status": "SOUGHT",
      "holder": "Llandough Community Council (clerk; council website)",
      "page": "/catalogue/?id=MR-0072"
+    },
+    {
+     "id": "EV-0606",
+     "kind": "evidence",
+     "title": "WhatDoTheyKnow: Llandough Community Council, “Meeting of 22 October 2026: remote-only arrangements, outstanding questions and the Great House Farm (Tŷ Mawr) records”",
+     "date_display": null,
+     "date_sort": "2026",
+     "status": "catalogued",
+     "holder": null,
+     "page": null
+    },
+    {
+     "id": "EV-0387",
+     "kind": "evidence",
+     "title": "Llandough Community Council: Request for assistance in BP v Buckler matter (20 Nov 2025)",
+     "date_display": "2025-11-20",
+     "date_sort": "2025-11-20",
+     "status": "correspondence (no disclosure)",
+     "holder": "Llandough Community Council",
+     "page": null
     },
     {
      "id": "EV-0711",
@@ -1036,7 +1346,7 @@
   },
   "ty-mawr-great-house-farm": {
    "name": "Tŷ Mawr (Great House Farm)",
-   "count": 17,
+   "count": 22,
    "records": [
     {
      "id": "EV-0723",
@@ -1089,6 +1399,36 @@
      "page": null
     },
     {
+     "id": "EV-0483",
+     "kind": "evidence",
+     "title": "Valuation Office Agency / HMRC: Valuation records for Great House Farm/Tŷ Mawr (20 Oct 2026)",
+     "date_display": "2026-10-20 to 2026-11-05",
+     "date_sort": "2026-10-20",
+     "status": "refusal",
+     "holder": "Valuation Office Agency / HMRC",
+     "page": null
+    },
+    {
+     "id": "EV-0375",
+     "kind": "evidence",
+     "title": "Historic England: Records of Great House Farm / Tŷ Mawr transfer (20 Oct 2026–21 Oct 2026)",
+     "date_display": "2026-10-20 to 2026-10-29",
+     "date_sort": "2026-10-20",
+     "status": "substantive disclosure",
+     "holder": "Historic England",
+     "page": null
+    },
+    {
+     "id": "EV-0345",
+     "kind": "evidence",
+     "title": "Glamorgan Archives: Enquiry – original South Glamorgan “County Treasures” inventory: entry for Great House Farm / Tŷ Mawr, Llandough (19 Oct 2026)",
+     "date_display": "2026-10-19",
+     "date_sort": "2026-10-19",
+     "status": "no reply",
+     "holder": "Glamorgan Archives",
+     "page": null
+    },
+    {
      "id": "EV-0513",
      "kind": "evidence",
      "title": "Llandough Community Council, agenda for the Council meeting of Thursday 22 October 2026 at 7.00pm (held remotely only), issued 13 October 2026. Item 10: a request about recollections of the village from the 1950s to the 1990s and about the 1,026 burials beneath Church View Close, the former site of Great House Farm (Tŷ Mawr)",
@@ -1109,6 +1449,16 @@
      "page": null
     },
     {
+     "id": "EV-0475",
+     "kind": "evidence",
+     "title": "Vale of Glamorgan Council: Formal concern, preservation and subject access — Great House Farm (Tŷ Mawr), Llandough — remedy before escalation (28 Sep 2026)",
+     "date_display": "2026-09-28",
+     "date_sort": "2026-09-28",
+     "status": "no reply by deadline",
+     "holder": "Vale of Glamorgan Council",
+     "page": null
+    },
+    {
      "id": "EV-0147",
      "kind": "evidence",
      "title": "HM Land Registry letter on registration history of Tŷ Mawr Farm",
@@ -1116,6 +1466,16 @@
      "date_sort": "2026-03-23",
      "status": "HELD",
      "holder": "Copy held in the Cedwyn evidence repository (PDF in wiki media library). Original sent by HM Land Registry. No caseworker, office, title number or reference given.",
+     "page": null
+    },
+    {
+     "id": "EV-0606",
+     "kind": "evidence",
+     "title": "WhatDoTheyKnow: Llandough Community Council, “Meeting of 22 October 2026: remote-only arrangements, outstanding questions and the Great House Farm (Tŷ Mawr) records”",
+     "date_display": null,
+     "date_sort": "2026",
+     "status": "catalogued",
+     "holder": null,
      "page": null
     },
     {
