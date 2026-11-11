@@ -12,9 +12,9 @@
   "page"
  ],
  "match": "entity name (also the name before any bracket; names under 6 characters skipped) found in the record title or holder",
- "synced_utc": "2026-11-09T01:11:12Z",
+ "synced_utc": "2026-11-11T01:27:55Z",
  "entities_checked": 307,
- "count": 150,
+ "count": 152,
  "entities": {
   "llandough-primary-school": {
    "name": "Llandough Primary School",
@@ -100,7 +100,7 @@
   },
   "glamorgan-archives": {
    "name": "Glamorgan Archives",
-   "count": 92,
+   "count": 94,
    "records": [
     {
      "id": "EV-0345",
@@ -563,6 +563,16 @@
      "page": null
     },
     {
+     "id": "EV-2055",
+     "kind": "evidence",
+     "title": "Glamorgan Archives DBDT/52/1 (1953): Western Ground Rents, Field 29, Leckwith Moors",
+     "date_display": "1953",
+     "date_sort": "1953-00-00",
+     "status": "PENDING (not seen)",
+     "holder": "Glamorgan Archives, DBDT/52/1",
+     "page": null
+    },
+    {
      "id": "EV-0030",
      "kind": "evidence",
      "title": "Glamorgan Archives ACA: Cardiff County Court registers (1953 arrears, 1962 possession, 1963 committal)",
@@ -751,6 +761,16 @@
      "status": "PENDING — view free at Glamorgan Archives.",
      "holder": "Glamorgan Archives, DSA/12/4888 (catalogue description read; document unread).",
      "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0610-llandough-quarry-plant-sale-1925/"
+    },
+    {
+     "id": "EV-2056",
+     "kind": "evidence",
+     "title": "Glamorgan Archives DSA/12/4365 (1925-1936): land at Leckwith (OS parcel 51)",
+     "date_display": "1925-1936",
+     "date_sort": "1925-00-00",
+     "status": "PENDING (not seen)",
+     "holder": "Glamorgan Archives, DSA/12/4365",
+     "page": null
     },
     {
      "id": "EV-0728",
