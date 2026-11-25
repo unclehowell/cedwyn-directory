@@ -12,7 +12,7 @@
   "page"
  ],
  "match": "entity name (also the name before any bracket; names under 6 characters skipped) found in the record title or holder",
- "synced_utc": "2026-11-11T01:27:55Z",
+ "synced_utc": "2026-11-25T00:04:28Z",
  "entities_checked": 307,
  "count": 152,
  "entities": {
@@ -690,7 +690,7 @@
      "date_sort": "1938-12-25",
      "status": "READ (search-result text and catalogue entries).",
      "holder": "BNA: Leeds Mercury 18 May 1938 p1; Western Daily Press 19 May 1938 p7; Western Mail 18 May 1938 p9, 19 May 1938 p9, 5 Jul 1938 p7, 14 Jun 1939 p10; Yorkshire Post, Daily Herald, Scotsman 5 Jul 1938. Glamorgan Archives D696/2 (mortgage to Mountjoy, surrendered 1944); DBDT11/1 (Dec 1938 lease of the Castle Street estate office, WGR → Mountjoy); DBDT121/1–3 (Leckwith: Bute 1925 → Mountjoy 1934 → WGR 1944).",
-     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0625-bute-mountjoy-sale-to-wgr-1938-one-transaction/"
+     "page": "https://bucklerfamily.estate/research/evidence/ev-0625-bute-mountjoy-sale-to-wgr-1938-one-transaction/"
     },
     {
      "id": "EV-0021",
@@ -730,7 +730,7 @@
      "date_sort": "1926-12",
      "status": "PENDING — view free at Glamorgan Archives.",
      "holder": "Glamorgan Archives, DBDT123/6 (catalogue only).",
-     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0612-bute-letting-lewis-road-penarth-udc-1926/"
+     "page": "https://bucklerfamily.estate/research/evidence/ev-0612-bute-letting-lewis-road-penarth-udc-1926/"
     },
     {
      "id": "EV-0611",
@@ -740,7 +740,7 @@
      "date_sort": "1926-10-07",
      "status": "PENDING — view free at Glamorgan Archives.",
      "holder": "Glamorgan Archives, DSA/12/5085 (catalogue only).",
-     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0611-llandough-rectory-sale-1926/"
+     "page": "https://bucklerfamily.estate/research/evidence/ev-0611-llandough-rectory-sale-1926/"
     },
     {
      "id": "EV-0613",
@@ -750,7 +750,7 @@
      "date_sort": "1926",
      "status": "PENDING — view free at Glamorgan Archives.",
      "holder": "Glamorgan Archives, DB/M/1–9 (court books to 1937), DB/M/10–13 (extinguishment agreements 1929–36), DB/M/14–19 (manorial rents 1935–40), DB/M/20 (Ministry correspondence 1938), DB/M/21 (steward appointed 27 May 1937).",
-     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0613-bute-glamorgan-manorial-records-1926-1940/"
+     "page": "https://bucklerfamily.estate/research/evidence/ev-0613-bute-glamorgan-manorial-records-1926-1940/"
     },
     {
      "id": "EV-0610",
@@ -760,7 +760,7 @@
      "date_sort": "1925-11-10",
      "status": "PENDING — view free at Glamorgan Archives.",
      "holder": "Glamorgan Archives, DSA/12/4888 (catalogue description read; document unread).",
-     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0610-llandough-quarry-plant-sale-1925/"
+     "page": "https://bucklerfamily.estate/research/evidence/ev-0610-llandough-quarry-plant-sale-1925/"
     },
     {
      "id": "EV-2056",
@@ -790,7 +790,7 @@
      "date_sort": "1922-05",
      "status": "READ (catalogue text); company records not yet seen.",
      "holder": "The National Archives Discovery, catalogue GB 0214 DB and DA (administrative history of the Bute estate records at Glamorgan Archives).",
-     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0614-mountjoy-ltd-1926-tna-catalogue/"
+     "page": "https://bucklerfamily.estate/research/evidence/ev-0614-mountjoy-ltd-1926-tna-catalogue/"
     },
     {
      "id": "MR-0086",
@@ -1406,7 +1406,7 @@
      "date_sort": "2026-10-25",
      "status": "PUBLISHED — ingredients only.",
      "holder": "Cedwyn research library (this page); PDF below.",
-     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0609-parcel-by-parcel-pattern-table-2026/"
+     "page": "https://bucklerfamily.estate/research/evidence/ev-0609-parcel-by-parcel-pattern-table-2026/"
     },
     {
      "id": "EV-0720",
@@ -1516,7 +1516,7 @@
      "date_sort": "1983-06",
      "status": "DONE — negative.",
      "holder": "archive.org Financial Times scans (full text), searched 25 Oct 2026.",
-     "page": "https://cedwyn.bucklerfamily.estate/research/evidence/ev-0623-financial-times-1983-1986-negative-sweep/"
+     "page": "https://bucklerfamily.estate/research/evidence/ev-0623-financial-times-1983-1986-negative-sweep/"
     },
     {
      "id": "MR-0074",
